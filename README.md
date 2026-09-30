@@ -8,7 +8,7 @@
 
 I build practical AI systems around **document intelligence, retrieval, LLM orchestration, validation, and reliability**.
 
-📍 UAE   •   🎓 Computer Science & AI Student   •   💼 Open to AI Engineering Opportunities
+📍 UAE   •   🎓 Computer Science & AI Engineer   •   💼 Open to AI Engineering Opportunities
 
 <br>
 
